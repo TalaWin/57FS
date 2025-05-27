@@ -1,0 +1,67 @@
+/* 📌 Селекторы по тегам */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #fefefe;
+  color: #333;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+  text-align: center;
+  font-size: 36px;
+}
+
+h2 {
+  color: #1a73e8;
+  margin-top: 30px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+ul, ol {
+  margin-left: 30px;
+}
+
+/* 📸 Изображение */
+img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 16px;
+  
+}
+
+/* 🔗 Ссылки */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 🎯 Селекторы по классам */
+.intro {
+  background-color: #e4fae0;
+  padding: 100px;
+  border-left: 4px solid #0097a7;
+}
+
+.block {
+  padding: 8px 12px;
+  background-color: #f9f9f9;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.emphasis {
+  font-weight: bold;
+  color: #d84315;
+}
