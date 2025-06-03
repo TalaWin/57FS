@@ -1,5 +1,5 @@
 * {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: "Gill Sans", sans-serif;
 }
 
 li {
@@ -7,7 +7,7 @@ li {
 }
 
 li::before {
-  content: '⚡️ ';
+  content: "⚡️ ";
 }
 
 a {
@@ -17,10 +17,10 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #F06E00;
+  color: #f06e00;
 }
 
-h1>span {
-  color: #F06E00;
+h1 > span {
+  color: #f06e00;
   font-size: 42px;
 }
